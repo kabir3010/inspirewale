@@ -1,4 +1,2 @@
 # inspirewale
 
-Our aim is to build a complete one app solution for a flood victim . The whole idea revolves around the needs of a flood victim before , during and after the flood . The primary feature for the app is to establish a way of communication between the victims and the rescue team . People using the app will be able to send their location along with a brief about their ground realities and could tell their specific requirements which could be useful for the rescue team and help them plan their efforts better. Also in the absence of a rescue team the app can be used by the local people to organize rescue efforts and help those in distress . The app will also feature weather predictions and updates regarding flood warnings from the government forecasting agencies.Y ay... we got selected for t shirts !!
-ery5
